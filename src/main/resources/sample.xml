@@ -1,0 +1,84 @@
+<tXML>
+    <Header>
+        <Source>MANH_dom</Source>
+        <Action_Type>Create</Action_Type>
+        <Reference_ID><![CDATA[ASN_12018950]]></Reference_ID>
+        <Message_Type>ASN</Message_Type>
+        <Company_ID>1</Company_ID>
+    </Header>
+    <Message>
+
+        <ASN>
+            <ASNID><![CDATA[ASN_12018950]]></ASNID>
+            <ASNType><![CDATA[20]]></ASNType>
+            <ShipmentID><![CDATA[CS06766725]]></ShipmentID>
+            <LastTransmittedDTTM><![CDATA[]]></LastTransmittedDTTM>
+            <ASNStatus><![CDATA[20]]></ASNStatus>
+            <ASNPriority><![CDATA[1]]></ASNPriority>
+            <BusinessPartnerCode><![CDATA[]]></BusinessPartnerCode>
+            <BusinessUnit><![CDATA[]]></BusinessUnit>
+            <OriginFacilityAliasID><![CDATA[3216]]></OriginFacilityAliasID>
+            <DestinationFacilityAliasID><![CDATA[3217]]></DestinationFacilityAliasID>
+            <MfgPlant><![CDATA[]]></MfgPlant>
+            <PalletFootprint><![CDATA[]]></PalletFootprint>
+            <PickupEndDTTM><![CDATA[12/13/19 13:57]]></PickupEndDTTM>
+            <ActualShippedDTTM><![CDATA[]]></ActualShippedDTTM>
+            <DeliveryStart><![CDATA[12/13/19 14:03]]></DeliveryStart>
+            <DeliveryEnd><![CDATA[12/24/19 23:58]]></DeliveryEnd>
+            <AppointmentID><![CDATA[]]></AppointmentID>
+            <AppointmentDTTM><![CDATA[]]></AppointmentDTTM>
+            <AppointmentDuration><![CDATA[0]]></AppointmentDuration>
+            <ScheduleAppointment><![CDATA[]]></ScheduleAppointment>
+            <FirmAppointmentIndicator><![CDATA[]]></FirmAppointmentIndicator>
+            <AssignedCarrierCode><![CDATA[]]></AssignedCarrierCode>
+            <DriverName><![CDATA[]]></DriverName>
+            <BillOfLadingNumber><![CDATA[]]></BillOfLadingNumber>
+            <PRONumber><![CDATA[]]></PRONumber>
+            <EquipmentCode><![CDATA[]]></EquipmentCode>
+            <TractorCarrierCode><![CDATA[]]></TractorCarrierCode>
+            <TractorNumber><![CDATA[]]></TractorNumber>
+            <Mode><![CDATA[]]></Mode>
+            <ShippingCost><![CDATA[]]></ShippingCost>
+            <ShippingCostCurrency><![CDATA[]]></ShippingCostCurrency>
+            <BuyerCode><![CDATA[]]></BuyerCode>
+            <RepresentativeName><![CDATA[]]></RepresentativeName>
+            <ContactAddress1><![CDATA[9310 CENTER LAKE DR]]></ContactAddress1>
+            <ContactAddress2><![CDATA[The Men's Wearhouse]]></ContactAddress2>
+            <ContactAddress3><![CDATA[]]></ContactAddress3>
+            <ContactCity><![CDATA[CHARLOTTE]]></ContactCity>
+            <ContactStateOrProvince><![CDATA[NC]]></ContactStateOrProvince>
+            <ContactPostalCode><![CDATA[28216]]></ContactPostalCode>
+            <ContactCounty><![CDATA[MECKLENBURG]]></ContactCounty>
+            <ContactCountry><![CDATA[US]]></ContactCountry>
+            <ContactNumber><![CDATA[]]></ContactNumber>
+            <RefField1><![CDATA[]]></RefField1>
+            <RefField2><![CDATA[]]></RefField2>
+            <RefField3><![CDATA[]]></RefField3>
+            <ExternalSysCreationDTTM><![CDATA[]]></ExternalSysCreationDTTM>
+            <EquipmentType><![CDATA[]]></EquipmentType>
+            <OriginType><![CDATA[M]]></OriginType>
+            <DestinationType><![CDATA[]]></DestinationType>
+            <DCOrderNumber><![CDATA[]]></DCOrderNumber>
+            <ContractLocation><![CDATA[]]></ContractLocation>
+            <TransferFlag><![CDATA[N]]></TransferFlag>
+            <QualityCheckHoldUponReceipt><![CDATA[]]></QualityCheckHoldUponReceipt>
+            <ManifNbr><![CDATA[]]></ManifNbr>
+            <ManifType><![CDATA[]]></ManifType>
+            <DeliveryStopSeq><![CDATA[]]></DeliveryStopSeq>
+            <CutNbr><![CDATA[]]></CutNbr>
+            <IsCancelled><![CDATA[0]]></IsCancelled>
+            <IsClosed><![CDATA[]]></IsClosed>
+            <TrailerNbr><![CDATA[]]></TrailerNbr>
+            <ShippedLPNCount><![CDATA[1]]></ShippedLPNCount>
+            <FlowthruAllocMethod><![CDATA[]]></FlowthruAllocMethod>
+            <ExpectedReceiptDate><![CDATA[]]></ExpectedReceiptDate>
+            <WorkOrdNbr><![CDATA[]]></WorkOrdNbr>
+            <TotalWeight><![CDATA[2.5]]></TotalWeight>
+            <TotalWeightUOM><![CDATA[LBS]]></TotalWeightUOM>
+            <Volume><![CDATA[]]></Volume>
+            <VolumeUOM><![CDATA[]]></VolumeUOM>
+            <ReceiptType><![CDATA[]]></ReceiptType>
+            <ReturnReferenceNumber><![CDATA[]]></ReturnReferenceNumber>
+        </ASN>
+    </Message>
+</tXML>

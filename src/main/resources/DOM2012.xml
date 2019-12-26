@@ -1,0 +1,235 @@
+<tXML>
+    <Header>
+        <Source>MANH_dom</Source>
+        <Action_Type>Create</Action_Type>
+        <Reference_ID><![CDATA[ASN_12018950]]></Reference_ID>
+        <Message_Type>ASN</Message_Type>
+        <Company_ID>1</Company_ID>
+    </Header>
+    <Message>
+
+        <ASN>
+            <ASNID><![CDATA[ASN_12018950]]></ASNID>
+            <ASNType><![CDATA[20]]></ASNType>
+            <ShipmentID><![CDATA[CS06766725]]></ShipmentID>
+            <LastTransmittedDTTM><![CDATA[]]></LastTransmittedDTTM>
+            <ASNStatus><![CDATA[20]]></ASNStatus>
+            <ASNPriority><![CDATA[1]]></ASNPriority>
+            <BusinessPartnerCode><![CDATA[]]></BusinessPartnerCode>
+            <BusinessUnit><![CDATA[]]></BusinessUnit>
+            <OriginFacilityAliasID><![CDATA[3216]]></OriginFacilityAliasID>
+            <DestinationFacilityAliasID><![CDATA[3217]]></DestinationFacilityAliasID>
+            <MfgPlant><![CDATA[]]></MfgPlant>
+            <PalletFootprint><![CDATA[]]></PalletFootprint>
+            <PickupEndDTTM><![CDATA[12/13/19 13:57]]></PickupEndDTTM>
+            <ActualShippedDTTM><![CDATA[]]></ActualShippedDTTM>
+            <DeliveryStart><![CDATA[12/13/19 14:03]]></DeliveryStart>
+            <DeliveryEnd><![CDATA[12/24/19 23:58]]></DeliveryEnd>
+            <AppointmentID><![CDATA[]]></AppointmentID>
+            <AppointmentDTTM><![CDATA[]]></AppointmentDTTM>
+            <AppointmentDuration><![CDATA[0]]></AppointmentDuration>
+            <ScheduleAppointment><![CDATA[]]></ScheduleAppointment>
+            <FirmAppointmentIndicator><![CDATA[]]></FirmAppointmentIndicator>
+            <AssignedCarrierCode><![CDATA[]]></AssignedCarrierCode>
+            <DriverName><![CDATA[]]></DriverName>
+            <BillOfLadingNumber><![CDATA[]]></BillOfLadingNumber>
+            <PRONumber><![CDATA[]]></PRONumber>
+            <EquipmentCode><![CDATA[]]></EquipmentCode>
+            <TractorCarrierCode><![CDATA[]]></TractorCarrierCode>
+            <TractorNumber><![CDATA[]]></TractorNumber>
+            <Mode><![CDATA[]]></Mode>
+            <ShippingCost><![CDATA[]]></ShippingCost>
+            <ShippingCostCurrency><![CDATA[]]></ShippingCostCurrency>
+            <BuyerCode><![CDATA[]]></BuyerCode>
+            <RepresentativeName><![CDATA[]]></RepresentativeName>
+            <ContactAddress1><![CDATA[9310 CENTER LAKE DR]]></ContactAddress1>
+            <ContactAddress2><![CDATA[The Men's Wearhouse]]></ContactAddress2>
+            <ContactAddress3><![CDATA[]]></ContactAddress3>
+            <ContactCity><![CDATA[CHARLOTTE]]></ContactCity>
+            <ContactStateOrProvince><![CDATA[NC]]></ContactStateOrProvince>
+            <ContactPostalCode><![CDATA[28216]]></ContactPostalCode>
+            <ContactCounty><![CDATA[MECKLENBURG]]></ContactCounty>
+            <ContactCountry><![CDATA[US]]></ContactCountry>
+            <ContactNumber><![CDATA[]]></ContactNumber>
+            <RefField1><![CDATA[]]></RefField1>
+            <RefField2><![CDATA[]]></RefField2>
+            <RefField3><![CDATA[]]></RefField3>
+            <ExternalSysCreationDTTM><![CDATA[]]></ExternalSysCreationDTTM>
+            <EquipmentType><![CDATA[]]></EquipmentType>
+            <OriginType><![CDATA[M]]></OriginType>
+            <DestinationType><![CDATA[]]></DestinationType>
+            <DCOrderNumber><![CDATA[]]></DCOrderNumber>
+            <ContractLocation><![CDATA[]]></ContractLocation>
+            <TransferFlag><![CDATA[N]]></TransferFlag>
+            <QualityCheckHoldUponReceipt><![CDATA[]]></QualityCheckHoldUponReceipt>
+            <ManifNbr><![CDATA[]]></ManifNbr>
+            <ManifType><![CDATA[]]></ManifType>
+            <DeliveryStopSeq><![CDATA[]]></DeliveryStopSeq>
+            <CutNbr><![CDATA[]]></CutNbr>
+            <IsCancelled><![CDATA[0]]></IsCancelled>
+            <IsClosed><![CDATA[]]></IsClosed>
+            <TrailerNbr><![CDATA[]]></TrailerNbr>
+            <ShippedLPNCount><![CDATA[1]]></ShippedLPNCount>
+            <FlowthruAllocMethod><![CDATA[]]></FlowthruAllocMethod>
+            <ExpectedReceiptDate><![CDATA[]]></ExpectedReceiptDate>
+            <WorkOrdNbr><![CDATA[]]></WorkOrdNbr>
+            <TotalWeight><![CDATA[2.5]]></TotalWeight>
+            <TotalWeightUOM><![CDATA[LBS]]></TotalWeightUOM>
+            <Volume><![CDATA[]]></Volume>
+            <VolumeUOM><![CDATA[]]></VolumeUOM>
+            <ReceiptType><![CDATA[]]></ReceiptType>
+            <ReturnReferenceNumber><![CDATA[]]></ReturnReferenceNumber>
+
+
+            <CustomFieldList>
+            </CustomFieldList>
+
+
+            <LPN>
+                <LPNID><![CDATA[020756658]]></LPNID>
+                <BusinessUnit><![CDATA[1]]></BusinessUnit>
+                <LPNType><![CDATA[LPN]]></LPNType>
+                <LPNLabelType><![CDATA[]]></LPNLabelType>
+                <LPNSizeType><![CDATA[]]></LPNSizeType>
+                <LPNStatus><![CDATA[]]></LPNStatus>
+                <LPNStatusDate><![CDATA[12/13/19 14:41]]></LPNStatusDate>
+                <LPNFacilityStatus><![CDATA[]]></LPNFacilityStatus>
+                <InboundOutboundIndicator><![CDATA[]]></InboundOutboundIndicator>
+                <SingleItemCase><![CDATA[Y]]></SingleItemCase>
+                <Height><![CDATA[]]></Height>
+                <Width><![CDATA[]]></Width>
+                <Length><![CDATA[]]></Length>
+                <OriginFacilityAliasID><![CDATA[3216]]></OriginFacilityAliasID>
+                <CurrentFacilityAliasID><![CDATA[3217]]></CurrentFacilityAliasID>
+                <DestinationFacilityAliasID><![CDATA[3217]]></DestinationFacilityAliasID>
+                <FinalDestinationFacilityAliasID><![CDATA[3217]]></FinalDestinationFacilityAliasID>
+                <ManufacturingFacilityAliasID><![CDATA[]]></ManufacturingFacilityAliasID>
+                <ProcessImmdNeeds><![CDATA[]]></ProcessImmdNeeds>
+                <PutawayType><![CDATA[]]></PutawayType>
+                <ShipVia><![CDATA[FGRD]]></ShipVia>
+                <Carrier><![CDATA[]]></Carrier>
+                <Mode><![CDATA[]]></Mode>
+                <ServiceLevel><![CDATA[]]></ServiceLevel>
+                <TrackingNbr><![CDATA[778899921794]]></TrackingNbr>
+                <ReturnTrackingNumber><![CDATA[]]></ReturnTrackingNumber>
+                <ReturnReferenceNumber><![CDATA[]]></ReturnReferenceNumber>
+                <ConsumeSeq><![CDATA[]]></ConsumeSeq>
+                <PalletID><![CDATA[]]></PalletID>
+                <Conveyable><![CDATA[]]></Conveyable>
+                <ManufacturedDTTM><![CDATA[]]></ManufacturedDTTM>
+                <WorkOrdNbr><![CDATA[]]></WorkOrdNbr>
+                <ShipByDate><![CDATA[]]></ShipByDate>
+                <BusinessPartnerId><![CDATA[]]></BusinessPartnerId>
+                <ExpireDate><![CDATA[]]></ExpireDate>
+                <LocationID><![CDATA[]]></LocationID>
+                <PurchaseOrderID><![CDATA[]]></PurchaseOrderID>
+                <DistributionOrderID><![CDATA[23441222]]></DistributionOrderID>
+                <OriginalShipmentNbr><![CDATA[]]></OriginalShipmentNbr>
+                <ConsumeCasePriority><![CDATA[]]></ConsumeCasePriority>
+                <ConsumePriorityDate><![CDATA[]]></ConsumePriorityDate>
+                <ManifNbr><![CDATA[]]></ManifNbr>
+                <OutofZoneIndicator><![CDATA[]]></OutofZoneIndicator>
+                <PhysicalEntityCode><![CDATA[]]></PhysicalEntityCode>
+                <VendorContainerNbr><![CDATA[]]></VendorContainerNbr>
+                <IncubationDate><![CDATA[]]></IncubationDate>
+                <InstructionCode1><![CDATA[]]></InstructionCode1>
+                <InstructionCode2><![CDATA[]]></InstructionCode2>
+                <InstructionCode3><![CDATA[]]></InstructionCode3>
+                <InstructionCode4><![CDATA[]]></InstructionCode4>
+                <InstructionCode5><![CDATA[]]></InstructionCode5>
+                <EstimatedWeight><![CDATA[]]></EstimatedWeight>
+                <ActualWeight><![CDATA[2.5]]></ActualWeight>
+                <WeightUOM><![CDATA[LBS]]></WeightUOM>
+                <EstimatedVolume><![CDATA[]]></EstimatedVolume>
+                <ActualVolume><![CDATA[]]></ActualVolume>
+                <VolumeUOM><![CDATA[]]></VolumeUOM>
+                <PackageType><![CDATA[Large Box (Suit Box)]]></PackageType>
+                <IsCancelled><![CDATA[0]]></IsCancelled>
+                <ReceiptType><![CDATA[]]></ReceiptType>
+                <CrossdockOrderId><![CDATA[]]></CrossdockOrderId>
+                <ContainsDryIce><![CDATA[]]></ContainsDryIce>
+
+                <Location>
+                    <Area><![CDATA[]]></Area>
+                    <Zone><![CDATA[]]></Zone>
+                    <Aisle><![CDATA[]]></Aisle>
+                    <Bay><![CDATA[]]></Bay>
+                    <Level><![CDATA[]]></Level>
+                    <Position><![CDATA[]]></Position>
+                </Location>
+
+                <CustomFieldList>
+                </CustomFieldList>
+
+                <LPNMovement>
+                    <ASNID><![CDATA[ASN_12018950]]></ASNID>
+                    <OriginFacilityAliasID><![CDATA[3216]]></OriginFacilityAliasID>
+                    <DestinationFacilityAliasID><![CDATA[3217]]></DestinationFacilityAliasID>
+                    <ShippedDTTM><![CDATA[]]></ShippedDTTM>
+                    <ReceivedDTTM><![CDATA[]]></ReceivedDTTM>
+                </LPNMovement>
+
+                <LPNDetail>
+                    <ItemName><![CDATA[TMW38XD46292]]></ItemName>
+                    <PurchaseOrderID><![CDATA[]]></PurchaseOrderID>
+                    <PurchaseOrderLineItemID><![CDATA[]]></PurchaseOrderLineItemID>
+                    <DistributionOrderLineItemID><![CDATA[1]]></DistributionOrderLineItemID>
+                    <GTIN><![CDATA[]]></GTIN>
+                    <ExpireDate><![CDATA[]]></ExpireDate>
+                    <BestBeforeDate><![CDATA[]]></BestBeforeDate>
+                    <ShipByDate><![CDATA[12/13/19 14:42]]></ShipByDate>
+                    <PrePackGroupCode><![CDATA[]]></PrePackGroupCode>
+                    <CutNbr><![CDATA[]]></CutNbr>
+                    <ItemSequenceNbr><![CDATA[1]]></ItemSequenceNbr>
+                    <AssortmentNbr><![CDATA[]]></AssortmentNbr>
+                    <InstructionCode1><![CDATA[]]></InstructionCode1>
+                    <InstructionCode2><![CDATA[]]></InstructionCode2>
+                    <InstructionCode3><![CDATA[]]></InstructionCode3>
+                    <InstructionCode4><![CDATA[]]></InstructionCode4>
+                    <InstructionCode5><![CDATA[]]></InstructionCode5>
+                    <StandardSubPackQuantity><![CDATA[0]]></StandardSubPackQuantity>
+                    <StandardPackQuantity><![CDATA[0]]></StandardPackQuantity>
+                    <StandardCaseQuantity><![CDATA[0]]></StandardCaseQuantity>
+
+                    <CustomFieldList>
+                    </CustomFieldList>
+
+                    <LPNDetailQuantity>
+                        <Quantity><![CDATA[1.0]]></Quantity>
+                        <QuantityUOM><![CDATA[U]]></QuantityUOM>
+                        <ShippedAsnQuantity><![CDATA[1.0]]></ShippedAsnQuantity>
+                        <OriginalQuantity><![CDATA[0.0]]></OriginalQuantity>
+                        <ReceivedQuantity><![CDATA[]]></ReceivedQuantity>
+                        <HazmatQuantity><![CDATA[]]></HazmatQuantity>
+                        <HazmatQuantityUOM><![CDATA[]]></HazmatQuantityUOM>
+                    </LPNDetailQuantity>
+
+                    <LPNDetailWeight>
+                        <EstimatedWeight><![CDATA[]]></EstimatedWeight>
+                        <Weight><![CDATA[]]></Weight>
+                        <WeightUOM><![CDATA[]]></WeightUOM>
+                    </LPNDetailWeight>
+
+                    <LPNDetailVolume>
+                        <EstimatedVolume><![CDATA[]]></EstimatedVolume>
+                        <VolumeUOM><![CDATA[]]></VolumeUOM>
+                    </LPNDetailVolume>
+
+                    <InventoryAttributes>
+                        <InventoryType><![CDATA[]]></InventoryType>
+                        <ProductStatus><![CDATA[]]></ProductStatus>
+                        <BatchNumber><![CDATA[]]></BatchNumber>
+                        <ItemAttribute1><![CDATA[]]></ItemAttribute1>
+                        <ItemAttribute2><![CDATA[]]></ItemAttribute2>
+                        <ItemAttribute3><![CDATA[]]></ItemAttribute3>
+                        <ItemAttribute4><![CDATA[]]></ItemAttribute4>
+                        <ItemAttribute5><![CDATA[]]></ItemAttribute5>
+                        <CountryofOrigin><![CDATA[]]></CountryofOrigin>
+                    </InventoryAttributes>
+
+                </LPNDetail>
+            </LPN>
+        </ASN>
+
+    </Message>
+</tXML>
